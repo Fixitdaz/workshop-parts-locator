@@ -2,7 +2,6 @@
 **Find parts instantly with Arduino-powered LED guidance**  
 *A Flask web interface to search and light up storage bins by description or image.*
 
-![Demo Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyYzV6d2V1ZGJ4Y3JtM2JtY2J6eHp4Z2VqZzZ1ZWZ6eGJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/example.gif) *(Replace with your demo video)*
 
 ## ✨ Features
 - **Web Interface**  
